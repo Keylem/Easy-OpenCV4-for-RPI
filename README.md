@@ -23,7 +23,7 @@ type:
 
 sudo nano .bashrc
 
-and at this line to the bottom of the ".bashrc" file:
+and add this line to the bottom of the ".bashrc" file:
 
 export LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1
 
