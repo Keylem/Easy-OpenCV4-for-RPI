@@ -33,7 +33,7 @@ then, source it with:
 
 source .bashrc
 
-That's it 🥳 you can import it with "import cv2" command and check it's version with "cv2."_ _version_ _"
+That's it 🥳 you can import it with "import cv2" command and check it's version with "cv2."_ _ _version_ _ _"
  (without spaces)
 
 
