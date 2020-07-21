@@ -18,7 +18,7 @@ sudo apt-get install libjasper-dev
 3-Next, we will update pip so we can install OpenCV without compiling anything.
 type "wget https://bootstrap.pypa.io/get-pip.py" to get the update and "sudo python3 get-pip.py" to install the update.
 
-4-And the last thing we'll do is to tell raspberry pi that this library exists. This step is very important and if you don't do, it can't find __init__ file of this library and give an error. to do that on your "home" directory edit .bashrc file.
+4-And the last thing we'll do is to tell raspberry pi that this library exists. This step is very important and if you don't do, it can't find ____init____ file of this library and give an error. to do that on your "home" directory edit .bashrc file.
 type:
 
 sudo nano .bashrc
@@ -33,7 +33,7 @@ then, source it with:
 
 source .bashrc
 
-That's it 🥳 you can import it with "import cv2" command and check it's version with "cv2.__version__"
+That's it 🥳 you can import it with "import cv2" command and check it's version with "cv2.____version____"
 
 
 
