@@ -27,6 +27,8 @@ and add this line to the bottom of the ".bashrc" file:
 
 export LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1
 
+
+ctrl+o to save, ctrl+x to exit...
 then, source it with:
 
 source .bashrc
