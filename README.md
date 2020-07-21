@@ -8,8 +8,11 @@
 type:
 
 sudo apt-get install libhdf5-dev libhdf5-serial-dev libhdf5-103
+
 sudo apt-get install libqtgui4 libqtwebkit4 libqt4-test
+
 sudo apt-get install libatlas-base-dev
+
 sudo apt-get install libjasper-dev
 
 3-Next, we will update pip so we can install OpenCV without compiling anything.
